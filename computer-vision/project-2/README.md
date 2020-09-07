@@ -1,3 +1,5 @@
+# Computer Vision Project 2: Video Analysis of Snooker Footage
+
 1. Library versions:
 
 opencv_python==4.2.0
