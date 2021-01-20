@@ -1,1 +1,1 @@
-
+Received 2 projects during the course. Project 2 is the text mining-oriented one out of the bunch. Decided to not upload the 1st project as its technical and straightforward naturo would incent future FMI AI masters students to copy it.
